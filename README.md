@@ -11,11 +11,11 @@
 
 This is just a draft! Please create issues or pull requests to make suggestions! This is our event, we can make it whatever we want.
 
-2:00pm - Arriving and socializing
-2:30pm - Introductions
-3:00pm - Lightning talks: up to 10 talks, 5 minute each, sign up by updating one of the slots below
-4:00pm - Marketplace - have gadgets you no longer need? Bring them and find them a new home!
-4:30pm - Socializing
+2:00pm - Arriving and socializing  
+2:30pm - Introductions  
+3:00pm - Lightning talks: up to 10 talks, 5 minute each, sign up by updating one of the slots below  
+4:00pm - Marketplace - have gadgets you no longer need? Bring them and find them a new home!  
+4:30pm - Socializing  
 
 ### Lightning talks
 
