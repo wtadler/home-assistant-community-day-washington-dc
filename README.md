@@ -1,11 +1,11 @@
 # Home Assistant Community Day Los Angeles
 
-📅 Saturday, May 24, 2025
-🕑 2pm - 5pm
-📍 [The Metaphor Club](https://themetaphorclub.com/), [4333 Crenshaw Blvd, Los Angeles, CA 90008](https://maps.app.goo.gl/2TaLq5LC4szSjspf6)
-🆓 Free
-🙋🏻‍♂️ Hosted by [@gr2m](https://github.com/gr2m)
-✅ Sign up: https://lu.ma/636o9yv1
+📅 Saturday, May 24, 2025  
+🕑 2pm - 5pm  
+📍 [The Metaphor Club](https://themetaphorclub.com/), [4333 Crenshaw Blvd, Los Angeles, CA 90008](https://maps.app.goo.gl/2TaLq5LC4szSjspf6)  
+🆓 Free  
+🙋🏻‍♂️ Hosted by [@gr2m](https://github.com/gr2m)  
+✅ Sign up: https://lu.ma/636o9yv1  
 
 ## Agenda
 
