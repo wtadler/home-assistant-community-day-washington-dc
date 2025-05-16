@@ -1,7 +1,7 @@
 # Home Assistant Community Day • Washington, DC
 
 📅 Saturday, May 24, 2025  
-🕑 1pm - 4:30pm  
+🕑 1pm - 4:30pm (but may change slightly depending on venue availability)  
 📍 TBD; see below  
 🆓 Free  
 🙋🏻‍♂️ Hosted by [@wtadler](https://github.com/wtadler)  
