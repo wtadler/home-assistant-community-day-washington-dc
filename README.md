@@ -17,12 +17,13 @@ This is just a draft! Please create issues or pull requests to make suggestions!
 ### 3:30pm • Introductions  
 ### 3:45pm • Lightning talks
 Up to 10 talks, 5 minutes each, sign up by updating one of the slots below. Topic can be anything you want! You favorite automation, your favorite home automation resources, a problem you can't resolve, etc. Sign up here.
-1. [Your Name] - [Talk title]
+1. [Will](https://github.com/wtadler) - Better Caretaking Through Home Assistant
+1. [Mike Schiller](https://github.com/ludditus-RPI) - Sensor Observability with Influx/Grafana
 1. [Your Name] - [Talk title]
 1. [Your Name] - [Talk title]
 
 ### 4:30pm • Marketplace - have gadgets you no longer need? Bring them and find them a new home! Give away for free to your fellow DMV residents, or put a price on it.  
-1. [Your Name] - [Your item, optionally linked to a product page] - asking price
+1. [Will](https://github.com/wtadler) - Used Kwikset 910 Z-Wave deadbolt (Satin nickel) - $75
 1. [Your Name] - [Your item, optionally linked to a product page] - asking price
 1. [Your Name] - [Your item, optionally linked to a product page] - asking price
 
