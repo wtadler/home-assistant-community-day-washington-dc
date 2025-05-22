@@ -19,7 +19,7 @@ This is just a draft! Please create issues or pull requests to make suggestions!
 Up to 10 talks, 5 minutes each, sign up by updating one of the slots below. Topic can be anything you want! You favorite automation, your favorite home automation resources, a problem you can't resolve, etc. Sign up here.
 1. [Will](https://github.com/wtadler) - Better Caretaking Through Home Assistant
 1. [Mike Schiller](https://github.com/ludditus-RPI) - Sensor Observability with Influx/Grafana
-1. [Your Name] - [Talk title]
+1. [Allan James Vestal](https://github.com/allanjamesvestal) - This is a 7000-series automation: How HA and Node-RED make our family's commutes smarter
 1. [Your Name] - [Talk title]
 
 ### 4:30pm • Marketplace - have gadgets you no longer need? Bring them and find them a new home! Give away for free to your fellow DMV residents, or put a price on it.  
