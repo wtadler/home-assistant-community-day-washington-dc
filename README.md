@@ -20,6 +20,7 @@ Up to 10 talks, 5 minutes each, sign up by updating one of the slots below. Topi
 1. [Will](https://github.com/wtadler) - Better Caretaking Through Home Assistant
 1. [Mike Schiller](https://github.com/ludditus-RPI) - Sensor Observability with Influx/Grafana
 1. [Allan James Vestal](https://github.com/allanjamesvestal) - This is a 7000-series automation: How HA and Node-RED make our family's commutes smarter
+1. [Dylan Barlett](https://github.com/dbarlett) - Near Real-Time Natural Gas Consumption Monitoring With RTL-SDR
 1. [Your Name] - [Talk title]
 
 ### 4:30pm • Marketplace - have gadgets you no longer need? Bring them and find them a new home! Give away for free to your fellow DMV residents, or put a price on it.  
